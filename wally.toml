@@ -1,5 +1,5 @@
 [package]
-name = "pyseph/objectcache"
+name = "darkestdev/objectcache"
 version = "1.4.5"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
